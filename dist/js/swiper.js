@@ -7,7 +7,7 @@
  *
  * Released under the MIT License
  *
- * Released on: November 1, 2018
+ * Released on: November 20, 2018
  */
 
 (function (global, factory) {
